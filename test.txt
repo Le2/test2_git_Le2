@@ -1,11 +1,9 @@
-change
+﻿change
 
 commit
 
-<<<<<<< HEAD
 normal
 
 normal 2
-=======
+
 special
->>>>>>> 실험
